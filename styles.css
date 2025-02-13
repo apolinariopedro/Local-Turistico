@@ -69,6 +69,10 @@ h3 {
   color: #1b1b1b;
 }
 
+ul li::marker {
+  color: #333333;
+}
+
 .blue {
   color: #0c51a7;
   margin: 0 0 48px 30px;
